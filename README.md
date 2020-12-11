@@ -9,10 +9,15 @@ Big halo fan 🎮 Gamertag----> TRK xI ZeUs Ix
 
 <h2 align="center">My stack :man_technologist:</h2>
 
-Javascript <br>
-  Node.js <br>
-C/C++<br>
-  ansi C embedded Systems programming
+1. JavaScript <br>
+  - Node.js <br>
+2. C/C++<br>
+  - ansi C for embedded Systems programming
+  - Arduino framework
+  - PIC Microcontrollers programming in MPLAB X IDE
+3. Web development
+  - HTML
+  - CSS
 
 
-<h3>Thanks for Stopping by!! 😊</h3>
+<h3>Thanks for Stopping by! 👾</h3>
