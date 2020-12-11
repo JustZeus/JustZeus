@@ -1,16 +1,18 @@
-### Hi there 👋
+# Ricardo Zamudio
 
-<!--
-**JustZeus/JustZeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">About me</h2>
 
-Here are some ideas to get you started:
+Microsoft Learn Student Ambassador 📢
+Mechatronics engineer🤖
+Master's student 🕶
+Big halo fan 🎮 Gamertag----> TRK xI ZeUs Ix
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">My stack :man_technologist:</h2>
+
+Javascript <br>
+  Node.js <br>
+C/C++<br>
+  ansi C embedded Systems programming
+
+
+<h3>Thanks for Stopping by!! 😊</h3>
