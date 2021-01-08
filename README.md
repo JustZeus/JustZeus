@@ -18,6 +18,7 @@ Huge halo fan 🎮 Gamertag----> TRK xI ZeUs Ix
 3. Web development
   - HTML
   - CSS
+  - JavaScript
 
 
 <h3>Thanks for Stopping by! 👾</h3>
