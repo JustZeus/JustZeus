@@ -21,6 +21,10 @@ Huge halo fan 🎮
   - JavaScript
 4. **Cloud Computing**
 
+<br>
+<a href="#"> <img src="https://raw.githubusercontent.com/JustZeus/JustZeus/main/img/azure.svg" style="vertical-align:top; margin:6px 4px">  
+<a href="#"> <img src="https://raw.githubusercontent.com/JustZeus/JustZeus/main/img/cloud.svg" style="vertical-align:top; margin:6px 4px"></a>
+
     - Azure IoT Hub,
     - Azure IoT Central,
     - Azure RTOS,
