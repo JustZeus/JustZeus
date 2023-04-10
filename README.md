@@ -7,6 +7,8 @@ Mechatronics engineer🤖
 Master's in engineering (Electronics) 🕶
 Huge halo fan 🎮
 
+---
+
 <h2 align="center">My stack :man_technologist:</h2>
 
 1. **JavaScript**
@@ -21,22 +23,23 @@ Huge halo fan 🎮
   - JavaScript
 4. **Cloud Computing**
 
-<br>
-<a href="#"> <img src="https://raw.githubusercontent.com/JustZeus/JustZeus/main/img/azure.svg" style="vertical-align:top; margin:6px 4px">  
-<a href="#"> <img src="https://raw.githubusercontent.com/JustZeus/JustZeus/main/img/cloud.svg" style="vertical-align:top; margin:6px 4px"></a>
 
-    - Azure IoT Hub,
-    - Azure IoT Central,
-    - Azure RTOS,
-    - Azure Time Series Insights,
-    - Serverless Azure Functions,
-    - Azure Storage,
-    - Azure App Service,
-    - Azure Cognitive Services,
-    - Azure Bot Service,
-    - Azure Logic Apps,
-    - Azure VM,
+  <a href="#"> <img src="https://raw.githubusercontent.com/JustZeus/JustZeus/main/img/azure.svg" style="vertical-align:top; margin:6px 4px">  </a>
+<a href="#"> <img src="https://raw.githubusercontent.com/JustZeus/JustZeus/main/img/cloud.svg" style="vertical-align:top; margin:6px 4px"> </a>
+
+  - Azure IoT Hub,
+  - Azure IoT Central,
+  - Azure RTOS,
+  - Azure Time Series Insights,
+  - Serverless Azure Functions,
+  - Azure Storage,
+  - Azure App Service,
+  - Azure Cognitive Services,
+  - Azure Bot Service,
+  - Azure Logic Apps,
+  - Azure VM,
 
 
 
+---
 <h3>Thanks for Stopping by! 👾</h3>
