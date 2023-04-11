@@ -1,7 +1,7 @@
-# Ricardo Zamudio
+<h2 align="center">Ricardo Zamudio</h2> 
 
-<h2 align="center">About me</h2>
-SCHUNK Applications Egineer 🔵
+<h2 >About me</h2>
+SCHUNK Applications Engineer 🔵
 Microsoft Learn Student Ambassador 📢
 Mechatronics engineer🤖
 Master's in engineering (Electronics) 🕶
@@ -13,9 +13,9 @@ Huge halo fan 🎮
 
 1. **JavaScript**<a href="#"> <img src="https://raw.githubusercontent.com/JustZeus/JustZeus/main/img/js.svg" style="vertical-align:top; margin:6px 4px">  </a>
  <a href="#"> <img src="https://raw.githubusercontent.com/JustZeus/JustZeus/main/img/nodejs.svg" style="vertical-align:top; margin:6px 4px">  </a>
-  - Node.js: expressJS, MongoDB, EJS, REST API
+  - Node.js: expressJS, MongoDB, EJS, REST API Developer
 2. **C/C++**<a href="#"> <img src="https://raw.githubusercontent.com/JustZeus/JustZeus/main/img/iot.svg" style="vertical-align:top; margin:6px 4px">  </a>
-  - ANSI C for embedded Systems programming
+  - ANSI C 90/99 for **embedded Systems programming**
   - AVR mega-0 Microcontroller achitecture bare metal C programming
   - PIC 8 bit microntrollers programming in MPLAB X IDE
 3. **Web development**<a href="#"> <img src="https://raw.githubusercontent.com/JustZeus/JustZeus/main/img/html.svg" style="vertical-align:top; margin:6px 4px">  </a>
