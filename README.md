@@ -39,7 +39,7 @@ Huge halo fan 🎮
   - Azure Logic Apps,
   - Azure VM,
 
-<a href="https://www.credly.com/badges/f69a9927-6acc-4002-81b7-2ada21abefbb/linked_in_profile"> <img src="https://raw.githubusercontent.com/JustZeus/JustZeus/main/img/specialty-azure-iot-developer-600x600" style="vertical-align:top; margin:6px 4px; width: 300px"> </a>
+<a href="https://www.credly.com/badges/f69a9927-6acc-4002-81b7-2ada21abefbb/linked_in_profile"> <img src="https://raw.githubusercontent.com/JustZeus/JustZeus/main/img/specialty-azure-iot-developer-600x600.png" style="vertical-align:top; margin:6px 4px; width: 150px"> </a>
 
 ---
 <h3>Thanks for Stopping by! 👾</h3>
