@@ -1,8 +1,6 @@
 <h2 align="center">Ricardo Zamudio</h2> 
 
 <h2 >About me</h2>
-SCHUNK Applications Engineer 🔵
-Microsoft Learn Student Ambassador 📢
 Mechatronics engineer🤖
 Master's in engineering (Electronics) 🕶
 Huge halo fan 🎮
